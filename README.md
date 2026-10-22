@@ -30,6 +30,8 @@ For more focused work, the practice catalogue offers pronunciation, reading and 
 
 ## My contribution
 
+**Winner · HKUST GenAI Hackathon 2026 (team project).**
+
 XiYouQuest is a team project. I contribute to planning, interface work, backend implementation and testing.
 
 One small detail captures the work well: learners should be able to hear the reference and replay their own attempt without the two interfering. [This contribution](https://github.com/baduru11/XiYouQuest-RPG-study-web/commit/2469cefd609cba3154a87a52138dc824160a5ea4) connects that learning need with playback behaviour, recording controls and regression tests.
