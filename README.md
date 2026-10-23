@@ -10,6 +10,14 @@
 
 <p align="center"><a href="assets/journey-map-20261022.png"><img src="assets/xiyouquest-figma-01-final-20261023.png" alt="XiYouQuest campaign card with the original seven-stage story map. Select it to inspect the unframed product capture." width="100%"></a></p>
 
+## Watch the product film
+
+<p align="center"><a href="assets/xiyouquest-promo-20261024.mp4"><img src="assets/xiyouquest-promo-20261024.gif" alt="XiYouQuest film showing the learning hub, story introduction, seven-stage journey map and companions from the real learning site." width="100%"></a></p>
+
+[Watch the full MP4](assets/xiyouquest-promo-20261024.mp4) · [Open the still frame](assets/xiyouquest-promo-20261024-poster.png) · [Capture and production details](assets/xiyouquest-promo-20261024-manifest.json)
+
+Team project · HKUST GenAI Hackathon 2026 winner. Production screens captured on 22 October 2026 show the learning hub, story, map and companions. The prologue and Sun Wukong are available in this starting state; later stages and companions remain locked. Live access requires HKUST sign-in.
+
 ## Give the next attempt a reason
 
 Pronunciation practice involves trying again. XiYouQuest places those attempts inside an adventure inspired by *Journey to the West*: a new destination ahead, a companion to talk with and a reason to return to the journey.
