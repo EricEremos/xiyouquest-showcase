@@ -5,14 +5,16 @@
 <p align="center"><a href="https://cle-xyq.hkust.edu.hk">Visit XiYouQuest</a> · <a href="https://github.com/baduru11/XiYouQuest-RPG-study-web">Explore the team project</a> · <a href="#my-contribution">My contribution</a></p>
 <p align="center"><sub>The live learning site requires HKUST sign-in. You can explore the current interface below without an account.</sub></p>
 
-<p align="center"><img src="assets/learning-hub-20261022.png" alt="Current XiYouQuest learning hub: Main Quest, Practice Session, Mock Exam, AI Learning Path and AI Companion Chat against a mountain landscape" width="100%"></p>
-<p align="center"><sub>Actual production interface, captured on 22 October 2026. Account navigation is cropped from these screenshots; the remaining product UI is unchanged.</sub></p>
+<p align="center"><a href="assets/journey-map-20261022.png"><img src="assets/xiyouquest-figma-01-final-20261023.png" alt="Follow the quest. Find your voice. The original XiYouQuest seven-stage story map, curated in a dark Figma campaign with the Mandarin-learning purpose above the interface." width="100%"></a></p>
+<p align="center"><sub>Original production map, captured on 22 October 2026; campaign layout curated in Figma. Account navigation is excluded from the screenshots. Select the card to inspect the original map.</sub></p>
 
 ## Give the next attempt a reason.
 
 Pronunciation practice asks you to repeat yourself. XiYouQuest places that repetition inside an adventure inspired by *Journey to the West*, with a story to follow and companions to discover.
 
 The current learning hub brings together a story campaign, pronunciation and speaking practice, mock practice, an AI learning path and companion conversations. Choose a focused exercise or return to the journey from the same starting point.
+
+[See the current learning hub](assets/learning-hub-20261022.png).
 
 ## See where the journey leads.
 
