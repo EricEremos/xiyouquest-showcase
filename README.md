@@ -8,15 +8,9 @@
 
 <p align="center"><a href="https://cle-xyq.hkust.edu.hk">Visit XiYouQuest</a> · <a href="https://github.com/baduru11/XiYouQuest-RPG-study-web">Explore the team project</a> · <a href="#my-contribution">My contribution</a><br><sub>The live learning site requires HKUST sign-in. Explore the captured interface below without an account.</sub></p>
 
-<p align="center"><a href="assets/journey-map-20261022.png"><img src="assets/xiyouquest-figma-01-final-20261023.png" alt="XiYouQuest campaign card with the original seven-stage story map. Select it to inspect the unframed product capture." width="100%"></a></p>
-
-## Watch the product film
-
 <p align="center"><a href="assets/xiyouquest-promo-20261024.mp4"><img src="assets/xiyouquest-promo-20261024.gif" alt="XiYouQuest film: Sun Wukong opens the Mandarin adventure, then the learning hub, quest cards, a speaking prompt, the stage map, the seven bosses and the four companions appear." width="100%"></a></p>
 
-[Watch the full film (MP4)](assets/xiyouquest-promo-20261024.mp4) · [Open the still frame](assets/xiyouquest-promo-20261024-poster.png) · [Capture and production details](assets/xiyouquest-promo-20261024-manifest.json)
-
-Team project · HKUST GenAI Hackathon 2026 winner. Live-site screens captured on 22 October 2026, with character and boss art from the product's own repository. The film shows navigation and selection, not a completed learning outcome. Live access requires HKUST sign-in.
+<p align="center"><sub>Team project · HKUST GenAI Hackathon 2026 winner. Live-site screens captured on 22 October 2026, with character and boss art from the product's own repository. The film shows navigation and selection, not a completed learning outcome. Live access requires HKUST sign-in.</sub><br><a href="assets/xiyouquest-promo-20261024.mp4">Watch the full film</a> · <a href="assets/xiyouquest-promo-20261024-poster.png">Still frame</a> · <a href="assets/xiyouquest-promo-20261024-manifest.json">Capture details</a></p>
 
 ## Give the next attempt a reason
 
@@ -39,6 +33,8 @@ The seven-stage map leads through rivers, mountains and forests towards the West
 <p align="center"><img src="assets/companions-20261022.png" alt="Sun Wukong is available at the start. Tang Sanzang, Sha Wujing and Zhu Bajie show the stages needed to unlock them." width="100%"></p>
 
 Begin with Sun Wukong. Later-stage requirements introduce Tang Sanzang, Sha Wujing and Zhu Bajie, connecting companion conversations with progress through the story.
+
+<p align="center"><a href="assets/journey-map-20261022.png"><img src="assets/xiyouquest-figma-01-final-20261023.png" alt="XiYouQuest campaign card with the original seven-stage story map. Select it to inspect the unframed product capture." width="100%"></a></p>
 
 ## My contribution
 
