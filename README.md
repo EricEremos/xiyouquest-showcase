@@ -12,11 +12,11 @@
 
 ## Watch the product film
 
-<p align="center"><a href="assets/xiyouquest-promo-20261024.mp4"><img src="assets/xiyouquest-promo-20261024.gif" alt="XiYouQuest film showing the learning hub, story introduction, seven-stage journey map and companions from the real learning site." width="100%"></a></p>
+<p align="center"><a href="assets/xiyouquest-promo-20261024.mp4"><img src="assets/xiyouquest-promo-20261024.gif" alt="XiYouQuest film: Sun Wukong opens the Mandarin adventure, then the learning hub, quest cards, a speaking prompt, the stage map, the seven bosses and the four companions appear." width="100%"></a></p>
 
-[Watch the full MP4](assets/xiyouquest-promo-20261024.mp4) · [Open the still frame](assets/xiyouquest-promo-20261024-poster.png) · [Capture and production details](assets/xiyouquest-promo-20261024-manifest.json)
+[Watch the full film (MP4)](assets/xiyouquest-promo-20261024.mp4) · [Open the still frame](assets/xiyouquest-promo-20261024-poster.png) · [Capture and production details](assets/xiyouquest-promo-20261024-manifest.json)
 
-Team project · HKUST GenAI Hackathon 2026 winner. Production screens captured on 22 October 2026 show the learning hub, story, map and companions. The prologue and Sun Wukong are available in this starting state; later stages and companions remain locked. Live access requires HKUST sign-in.
+Team project · HKUST GenAI Hackathon 2026 winner. Live-site screens captured on 22 October 2026, with character and boss art from the product's own repository. The film shows navigation and selection, not a completed learning outcome. Live access requires HKUST sign-in.
 
 ## Give the next attempt a reason
 
