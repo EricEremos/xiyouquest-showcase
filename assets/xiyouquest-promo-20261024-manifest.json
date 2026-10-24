@@ -1,88 +1,38 @@
 {
  "product": "xiyouquest",
- "edition": "2026-10-24 (latest film)",
+ "edition": "revision 7 (owner-approved, 24 Oct 2026)",
  "film": {
   "duration_seconds": 31.0,
   "width": 1920,
   "height": 1080,
   "fps": 30,
   "audio": "silent",
-  "readme_loop": "the full film"
+  "readme_loop": "the full film",
+  "mp4": "review encode of the master (CRF 24, faststart)"
  },
- "production": {
-  "visual_author": "Claude, HyperFrames (HTML and GSAP rendered in Chrome)",
-  "principle": "Original product interface pixels are scaled, cropped and moved; campaign type and motion sit around them. No on-screen provenance labels; qualifications live here and beside the film."
+ "qualification": "Team project with institutional access. Animated product screenshots, with game art from the project repository. Stages are previewed, not played; no exercise was submitted, no speaking feedback is shown and no learning outcome is claimed.",
+ "source_package": {
+  "path": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/claude-motion-20261023/rev7",
+  "master_sha256": "4ba56abaf74a666a463ac6edd35cc82b01a5c5f4df840f882f92ca46e7886887",
+  "review_sha256": "60ee5a3bc517f20d2d1ac116c4182b5fc0cd81c54c777bb3531066f609c38a8d",
+  "poster_sha256": "a339232eb3abb8e969b6c44c457d10d190b0f968cefa2306af243557f3e55d85"
  },
- "qualification": "Team project · HKUST GenAI Hackathon 2026 winner. Live-site screens captured on 22 October 2026, with character and boss art from the product's own repository. The film shows navigation and selection, not a completed learning outcome. Live access requires HKUST sign-in.",
- "sources": {
-  "intro": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/xiyouquest-live-story-intro-20261022.png",
-   "sha256": "4fba620a79716285be3a60cc95f7b3f58f906273bc0319d929a3f12b797b0b67",
-   "note": "original bytes"
-  },
-  "story": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/xiyouquest-live-story-20261022.png",
-   "sha256": "c181185986f849df40c9c15fe13471e9185f76c1a01a4a45dd1e1fcec181d33a",
-   "note": "original bytes"
-  },
-  "hub": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/learning-hub-20261022.png",
-   "sha256": "29817728aa8539d9faa04b555abd5351d8388b2d30268e9187738f9b585a8253",
-   "note": "original bytes"
-  },
-  "map": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/journey-map-20261022.png",
-   "sha256": "1bab4cf80903df50ab4f9f300594b9ddd2c44c182831751dd8c2b1365e221dc2",
-   "note": "original bytes"
-  },
-  "comp": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/companions-20261022.png",
-   "sha256": "45f5f2125c9759c518cee29a50ecabcfb402d05751b27c571227e0c1d09f5e2b",
-   "note": "original bytes"
-  },
-  "speak": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Claude/promo-rebuild-20261023/sp/in/xyq-prompted-speaking-c6bce9f.png",
-   "sha256": "a9d31dd1f7ea2382235f2e1362173a1c386785563027135b32497660219b75d5",
-   "note": "original bytes"
-  },
-  "practice": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/xiyouquest-live-practice-private-20261022.png",
-   "sha256": "d7377ae0c337121f51c9964245b324410cea96df9b30e30ccc32db7fdb5f8cd4",
-   "crop": [
-    0,
-    70,
-    1440,
-    1000
-   ],
-   "note": "name bar removed with the same crop rule as xiyouquest-crop-verification.json; retained pixels exact",
-   "output_sha256": "674380beaea52d7a0fbc640dc773071a34b93d55df8c7e7cf683b506a47d49cc"
-  },
-  "logo": {
-   "source": "/Volumes/EremosArch/Mac-AI-Work/Agent-State/Codex/task-artifacts/portfolio-current-refresh-20261022/assets/learning-hub-20261022.png",
-   "crop": [
-    440,
-    60,
-    1010,
-    230
-   ],
-   "note": "logo region of the real hub capture"
-  }
- },
+ "principle": "Original interface pixels with campaign type and motion around them; no on-screen provenance labels.",
  "files": {
   "mp4": {
    "path": "assets/xiyouquest-promo-20261024.mp4",
-   "bytes": 7027484,
-   "sha256": "370feb1da7b14db50e56744eeb226ee6465d27f2841c45e457213f3fe939916f"
+   "bytes": 7130033,
+   "sha256": "60ee5a3bc517f20d2d1ac116c4182b5fc0cd81c54c777bb3531066f609c38a8d"
   },
   "gif": {
    "path": "assets/xiyouquest-promo-20261024.gif",
-   "bytes": 8054002,
-   "sha256": "a931f3242fe80b3f1872851a38e7ea818350a29a60887c97aa320ebce26b1cc4"
+   "bytes": 8489238,
+   "sha256": "5a86b88644a62eb988c5259301aa7ed2be5dc6743d129a3aa22745fbafe548d2"
   },
   "poster": {
    "path": "assets/xiyouquest-promo-20261024-poster.png",
-   "bytes": 1488545,
-   "sha256": "e2788955c63baed0d34d38625bd444449091697160767abdab3b722adb925ce3"
+   "bytes": 1618104,
+   "sha256": "a339232eb3abb8e969b6c44c457d10d190b0f968cefa2306af243557f3e55d85"
   }
  }
 }
